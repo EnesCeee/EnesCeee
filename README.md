@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 # 💫 About Me:
 I'm currently working on freelance mobile project.<br>I like to code with flutter<br>I'm currently learning Java Spring Framework.<br>bodybuilding, cycling and swimming are my favorite hobbies
 
@@ -21,5 +21,5 @@ I'm currently working on freelance mobile project.<br>I like to code with flutte
 ---
 [![](https://visitcount.itsvg.in/api?id=EnesCeee&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+
