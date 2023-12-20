@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm currently working on freelance mobile project.<br>I like to code with flutter<br>I'm currently learning Java Spring Framework.<br>bodybuilding, cycling and swimming are my favorite hobbies
+I'm currently working on freelance mobile project.<br>I like to code with flutter<br>I'm currently learning Swift.<br>bodybuilding, cycling and swimming are my favorite hobbies
 
 
 ## 🌐 Socials:
